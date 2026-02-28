@@ -3,6 +3,7 @@
 ### Yet Another Budgeting App
 
 The free desktop money management app for developers by developers.
+Built with Tauri for a fast, lightweight, and cross-platform experience.
 
 ### Contributors
 
