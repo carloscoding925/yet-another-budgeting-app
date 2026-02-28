@@ -1,7 +1,15 @@
-# Tauri + React + Typescript
+# YABA
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+### Yet Another Budgeting App
 
-## Recommended IDE Setup
+The free desktop money management app for developers by developers.
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+### Contributors
+
+Carlos Hernandez
+
+### Notes
+
+I am planning on eventually making this open-source (I guess it technically is since the repo is public) so anybody
+can contribute to this project. I want it to be fully customizable so people can download this and modify it to
+fit their needs as they please.
